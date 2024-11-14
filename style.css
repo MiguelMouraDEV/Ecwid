@@ -1,0 +1,8 @@
+.rodape {
+    padding: 24px;
+    color: var(--cor-secundaria);
+    font-family: "Ubuntu", sans-serif;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
